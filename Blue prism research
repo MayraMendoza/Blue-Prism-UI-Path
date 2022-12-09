@@ -1,0 +1,14 @@
+What is Blue Prism? 
+Blue prism is a Robotic Process automation tool which holds the capability of a virtual workforce powered by software robots. 
+The virtual workforce automates mundane tasks and eliminates manual work.
+
+Describe two product features of Blue Prism 
+secure and accurate
+Blue prism provides secure and accurate results to any number of processes. Data is encrypted and obfuscated 
+
+Work queues
+With the queue-centric approach, Blue Prism tool dynamically controls the number of robots or resources, functioning on a given queue at a certain time. 
+It provides you with the maximum flexibility to regulate the number of robots assigned to function in the queue based on your business demands.
+
+How is Blue Prism different from UiPath?
+Blue prism is more reliable than UiPath, Blue prism uses C# and UiPath uses microsoft Sharepoint wf,  Blue prism is used in the back office while UiPath can be used for front office and back office. 
