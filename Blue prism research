@@ -12,3 +12,30 @@ It provides you with the maximum flexibility to regulate the number of robots as
 
 How is Blue Prism different from UiPath?
 Blue prism is more reliable than UiPath, Blue prism uses C# and UiPath uses microsoft Sharepoint wf,  Blue prism is used in the back office while UiPath can be used for front office and back office. 
+
+What are the main menu/dashboard item names?
+Home, studio, control, analytics, release,systems and my profile. 
+Studio is the design area of blue prism. 
+Control room is the area in which processes that have been designed, tested and deployed can be controlled in the real world environment.
+The following dashboards are available in analytics: personal, Global and publish. 
+The systems manager is where installations can be maintained from an administrative perspective. It allows configuration of the blue prism system, such as users and the assignment of roles.
+
+What is UiPath? 
+UI Path is a robotic process automation tool for large scale end-to-end automation. It uses a variety of methods to transform tedious tasks into automated processes.UiPath robots can work in tandem with humans or do a smooth hand off.
+
+What are two product features of UiPath?
+Drag and drop workflow
+Users develop visual process steps by dragging and dropping related onto a graphical workspace.
+
+Advance Scrapping options
+UI Path offers scraping options that allows the scrapping of data from web pages and applications. Scrapping solution works with any program including Java, Flash, PDF and SAP. 
+
+What are the main menu/dashboard item names?
+Home, orchestrator, actions, apps, processes, insights, integration service.
+Orchestrator gives the power to provision, deploy, trigger, monitor, measure and track work attended and unattended bots. 
+Actions are tasks to be performed or undertaken by users when dealing with long -running workflows.
+Processes page enables you to deploy an uploaded package as a new process, manage previously created processes and keep all processes up to date. 
+Insights is an analytics solution that enables the tracking, measuring, and managing of the performance of the entire automation program. 
+Interaction services combines UI and API automation allowing capabilities to be centrally accessed within the same integration design environment. 
+
+
