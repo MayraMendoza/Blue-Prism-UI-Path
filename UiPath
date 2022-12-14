@@ -1,0 +1,13 @@
+UiPath studio -is a tool for building automation processes. 
+
+The Robot  - executes the processes built in UiPath studio published to Orchestrator or locally.
+UiPath Orchestrator -  is a web application that acts as the interface between studio and robot and manages, controls and monitors automation tasks. 
+
+The main capabilities of Orchestrator are:
+
+Provisioning: creates and maintains the connection with robots.
+Control and license distribution: enables the creation, assignment and maintenance of licenses, roles, permissions, groups, and folder hierarchies.
+Automation storage and distribution: allows the controlled storage and distribution of automation projects, assets, and credentials, as well as large files used in automations.
+
+Running automation jobs in unattended mode: enables the creation and distribution of automation jobs in various ways, including through queues and triggers.
+Monitoring: allows monitoring of jobs and robots and stores logs for auditing and analytics.
