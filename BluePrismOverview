@@ -1,0 +1,54 @@
+Blue prism
+What is RPA?
+ robotic process automation is a process in which robots are design to mimic human actions and automate tedious tasks without human intervention. 
+Aims to reduce manual workforce and harness their talent in a different/better way. 
+
+Robotic - robots/machines that mimic human action. 
+Process- any robot that has to manage a sequence of steps which leads to a meaningful activity are known as process. 
+Automation - doing a task without any human intervention 
+
+Robotic Automation process
+Robots mimicking human actions performing a sequence of steps that lead to a meaningful activity without human intervention. 
+
+
+What is Blue prism?
+Blue prism is one of the most popular RPA tools that hold the capability of a virtual workforce powered by software robots. 
+With the help of this tool, enterprises automate business operations in an agile and cost-effective manner. 
+Formed in 2001 
+Based in java programming language 
+ visual designer - with drag and drop functionalities. 
+
+Features
+Secure and accurate - even when there are many processes running at the same time, blue prism insures all processes are secured and accurate. 
+
+Robust - Blue prism provides robust processes like data encryption, load balancing and intuit auditing  (every change is audited and relayed back to the user). 
+
+Scaleable and Resilient - allows scalability with central management. All the the processes can be audited and can be monitor centrally. 
+
+24*7 Workforce - tool is design to work intelligently without a person physically monitoring every action occurring. 
+
+Analytics - provides extended features to configure dashboards so the session information can be redirected to the monitoring systems and the ping can then generate inside and increase the performance of the automation 
+
+Data Security and Abstraction - all the processes is performed and stored in the data center. 
+
+Provides Cloud support - provides capacity support as for the business requirements so the user just have to create workers and manage them centrally. 
+
+Execution Intelligence - robots connect to the system and respond dynamically to the data on multiple environments. 
+
+
+
+Blue Prism Tool Overview
+Process studio - Blue Prism processes are flow diagram that are graphical representations of the process the computer follows. These Processes are created in the process studio. These processes manipulate data, interact with the external applications and perform decisions and calculations. 
+
+Process flow - is the logical structural flow of the various stages defined to be automated a repetitive task. [how you create a process and various stages in the process]
+
+Object studio - Objects are used to interact with an external application to either open/ close the application, perform a read/write operation, or navigate through the application. These objects are created in the Object Studio. (These objects are created in the object studio, these objects are used in the process with the the help of actions and each action performs a dedicated task in the process. Also data can be passed from the object and the process bi-directionally. 
+
+Application modular - The application Modeller is used to make a model of the application before the object can communicate with the application itself. This is done by mapping different elements such as windows, fields, buttons, which make up the user interface of an application. Also the process of identifying different elements is known as spying. Once an element is spied a unique profile is created to insure that the application modular can locate it every time a task is needed to be performed. After the process has been built and tested it must be published to make it available to the control room 
+
+Control room - processes created in the process studio do not run on the version of blue prism local to the desktop but run on an external resource known as digital worker. The process which run from the Control Room is known as a Session. With the help of control room these processes are performed in an efficient manner.
+
+Exception handling - Errors can occur at any point in the process flow. But, it is very important to understand how and when the error occurs and how to keep the process running even if they are errors found. (Exception handling is used to run these scenarios).
+In blue prism these exceptions can be handled the exception with the recover and resume stage 
+
+Work Queues - All the items present in the process are supplied by the external source. Work queues compile these items into a single queue. These queues gave built-in functionalities, to record and store results, of the process. 
