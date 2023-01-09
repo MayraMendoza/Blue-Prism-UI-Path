@@ -1,0 +1,38 @@
+What is OLEDB 
+
+The OLEDB libraries allow interaction with a number of target data files(Excel, CSV, Access) via a subset of SQL. 
+Advantages: speed and efficiency in file handling without full loading the file into memory at a given time.
+
+OLEDB stands for Object Linking and Embedding, database. It is an API designed by Microsoft that allows users to access a variety of data sources in a uniform manner. 
+
+Pre Requisites
+
+DLL installation  (Dynamic link library)
+There are multiple versions of OLEDB library available. (Check programs and features within the control panel and look for Microsoft access database engine. ) It can be downloaded from Microsoft. 
+
+2. VBO (Visual Business Object - The adapter used to connect to an application)
+Once the OLEDB DLL is installed, ensure that the VBO is imported correctly into blue Prism 
+
+
+Standard OLEDB usage:
+-Set connection: The OLEDB. Connection string must be set in the VBO. 
+
+OLEDB has 5 actions 
+
+Set connection - will need to provide Database, Password, Provider, Connect String 
+Open connection- This will open the connection, which makes the target file available for OLEDB queries and operations. 
+Get Collection-  Execution of an SQL statement in OLEDB to get the data collection. 
+
+
+
+Execute - Execute one or more SQL statements in OLEDB. This can be used to write data to a worksheet.
+
+Close - When finished, you must close the OLEDB connection to correctly finalize operations. 
+
+
+SQL direct when using OLEDB 
+OLEDB uses a subset of SQL from Microsoft Access, not the full SQL implementation 
+Delete statements do not function. 
+Drop table statements work to remove all data from a table, but will not drop the table itself. 
+
+
